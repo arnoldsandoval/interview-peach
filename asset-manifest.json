@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/peach-assessment/static/js/main.ab2e4916.chunk.js",
+    "main.js.map": "/peach-assessment/static/js/main.ab2e4916.chunk.js.map",
+    "runtime-main.js": "/peach-assessment/static/js/runtime-main.5667155e.js",
+    "runtime-main.js.map": "/peach-assessment/static/js/runtime-main.5667155e.js.map",
+    "static/css/2.7af05f34.chunk.css": "/peach-assessment/static/css/2.7af05f34.chunk.css",
+    "static/js/2.cbdcc74b.chunk.js": "/peach-assessment/static/js/2.cbdcc74b.chunk.js",
+    "static/js/2.cbdcc74b.chunk.js.map": "/peach-assessment/static/js/2.cbdcc74b.chunk.js.map",
+    "index.html": "/peach-assessment/index.html",
+    "precache-manifest.8b316fe8047e538469093b44fc4e5a90.js": "/peach-assessment/precache-manifest.8b316fe8047e538469093b44fc4e5a90.js",
+    "service-worker.js": "/peach-assessment/service-worker.js",
+    "static/css/2.7af05f34.chunk.css.map": "/peach-assessment/static/css/2.7af05f34.chunk.css.map",
+    "static/media/icon-cart.2a43afa7.svg": "/peach-assessment/static/media/icon-cart.2a43afa7.svg",
+    "static/media/icon-right.89b04cb0.svg": "/peach-assessment/static/media/icon-right.89b04cb0.svg",
+    "static/media/icon-user.8dcd3b41.svg": "/peach-assessment/static/media/icon-user.8dcd3b41.svg",
+    "static/media/index.css": "/peach-assessment/static/media/montserrat-latin-900italic.a8ec4957.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5667155e.js",
+    "static/css/2.7af05f34.chunk.css",
+    "static/js/2.cbdcc74b.chunk.js",
+    "static/js/main.ab2e4916.chunk.js"
+  ]
+}
